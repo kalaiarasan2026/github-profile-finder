@@ -1,0 +1,70 @@
+body{
+font-family: Arial;
+background:#0f172a;
+color:white;
+margin:0;
+}
+
+.container{
+width:90%;
+max-width:800px;
+margin:auto;
+text-align:center;
+padding:40px;
+}
+
+.search-box{
+margin-bottom:30px;
+}
+
+input{
+padding:10px;
+width:250px;
+border:none;
+border-radius:5px;
+}
+
+button{
+padding:10px 20px;
+border:none;
+background:#2563eb;
+color:white;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:hover{
+background:#1d4ed8;
+}
+
+.profile-card{
+background:#1e293b;
+padding:20px;
+border-radius:10px;
+margin-bottom:30px;
+}
+
+.profile-card img{
+width:120px;
+border-radius:50%;
+}
+
+.repo{
+background:#1e293b;
+padding:15px;
+margin:10px 0;
+border-radius:8px;
+text-align:left;
+}
+
+.repo a{
+color:#60a5fa;
+text-decoration:none;
+font-weight:bold;
+}
+
+.repo span{
+display:block;
+font-size:14px;
+color:#94a3b8;
+}
