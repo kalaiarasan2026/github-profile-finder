@@ -113,7 +113,3 @@ Instagram
 
 If you like this project, give it a ⭐ on GitHub.
 
-
-🔥 Frontend developer best GitHub projects
-
-அவை தெரிந்தால் உன் GitHub profile 10x professional ஆகும். 🚀
